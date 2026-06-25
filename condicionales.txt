@@ -1,0 +1,9 @@
+Que es un condicionas?
+Es como algo que se debe cumplir antes de realizar una accion
+
+ejemplo:
+
+si (edad >= 18):
+    print("Puedes pasar.")
+Sino
+    print("Lo siento, eres menor de edad.")
