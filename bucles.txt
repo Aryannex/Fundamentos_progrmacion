@@ -1,0 +1,7 @@
+Que es un bucle?
+Algo que se repite indefinidamente
+
+ejemplo
+
+Repetir 10 veces:
+    mostrar "buenas tardes"
