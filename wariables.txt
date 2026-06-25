@@ -1,0 +1,5 @@
+Que es una variable?
+un espacio en la memorio que se guarda con un nombre que puede cambiar
+ejemplo
+Producto = auriculares
+precio = 60
