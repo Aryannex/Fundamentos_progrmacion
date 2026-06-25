@@ -1,0 +1,8 @@
+Que es un promt y como se usa? El promt es como una instruccion que le 
+damos a la IA para hacer una actividad en especifico, se usa para 
+ayudarnos a que la IA nos entienda mejor nuestras peticiones .
+
+Ejemplos:
+Un promt para que nos enseñe una leccion de algun tema que querramos saber
+
+y el otro como crear comandos y como utilizarlos 
