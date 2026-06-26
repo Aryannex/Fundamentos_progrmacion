@@ -1,0 +1,11 @@
+Que es un evento?
+Algo que ocurre (acción) dentro de un sistema
+
+EJemplo:
+// Seleccionamos el botón
+const boton = document.getElementById("boton-comprar");
+
+// Definimos el "Escuchador" para el evento de "click"
+boton.addEventListener("click", function() {
+    alert("¡Has hecho clic en comprar!");
+
